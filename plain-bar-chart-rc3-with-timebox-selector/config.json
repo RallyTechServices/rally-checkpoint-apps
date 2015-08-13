@@ -1,0 +1,7 @@
+{
+    "name": "TS Bar Chart rc3 with timebox selector",
+    "className": "TSBarChart",
+    "server": "https://10.32.16.145",
+    "sdk": "2.0rc3",
+    "apiKey": "_PUT_APIKEY_HERE_"
+}
